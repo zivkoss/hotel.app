@@ -23,4 +23,4 @@ describe('BookingComponent', () => {
     expect(component).toBeTruthy();
   });
 });
-// it is just a pracise 
+// it is just a pracise \
