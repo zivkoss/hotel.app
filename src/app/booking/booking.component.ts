@@ -165,3 +165,6 @@ export class BookingComponent implements OnInit {
     this.guests.removeAt(i);
   }
 }
+
+
+
