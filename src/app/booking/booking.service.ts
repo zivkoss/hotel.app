@@ -12,3 +12,5 @@ export class BookingService {
     return this.http.post('https://jsonplaceholder.typicode.com/posts', booking)
   }
 }
+
+// --
