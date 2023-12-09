@@ -37,3 +37,4 @@ import { MatSnackBarModule } from '@angular/material/snack-bar';
   ],
 })
 export class BookingModule {}
+
